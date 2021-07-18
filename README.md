@@ -1,6 +1,6 @@
 # Third-Party APIs: Work Day Scheduler
 
-### Link to final producr: https://troyat88.github.io/work-day-scheduler/
+### Link to final product: https://troyat88.github.io/work-day-scheduler/
 
 ## Task
 
@@ -37,6 +37,8 @@ Modify client code for Calendar App, that allows for user to save events by hour
 
 ## Final Product
 
+#### Final Product Image
 ![Final Product Image](Assets/CalendarScreenShot.jpg) 
 ---
+#### Events Saved in Local Storage Example
 ![Events in Local Storage](Assets/MemortScreenShot.jpg) 
