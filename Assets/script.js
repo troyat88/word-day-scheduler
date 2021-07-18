@@ -1,5 +1,5 @@
-var timeBlock = $("span")
-var eventEntry = $("input")
+//var timeBlock = $("span")
+//var eventEntry = $("input")
 var saveButton = $("button")
 
 //function for updating time every second
@@ -32,6 +32,20 @@ function colorCode(){
 });
 }
 colorCode()
+
+//var eventEntered;
+
+$(".saveBtn").click(function(){
+    var eventEntered = $(this).siblings(".form-control").val();
+    console.log(eventEntered)
+    var eventTime = $(this).siblings(".input-group-text").text();
+    console.log(eventTime)
+    localStorage.setItem(eventTime, eventEntered);
+    if (eventEntered == ""){
+    alert("Please verify your entry")
+    }
+});
+
 
 
 
