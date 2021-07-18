@@ -36,9 +36,9 @@ textarea {
   border-top: 1px solid white;
 }
 
-#row :hover {
-  border-color: #ff6961;
-  border-width: 2px;
+.form-control:hover {
+  border-color: #23c5e9;
+  border-width: 4px;
 }
 
 
@@ -78,6 +78,7 @@ textarea {
 .saveBtn:hover {
   transform: scale(1.1555);
   transition: all 0.3s ease-in-out;
+  border-width: 2px;
 }
 
 .input-group-text{
