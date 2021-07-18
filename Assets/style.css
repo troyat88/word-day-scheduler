@@ -34,6 +34,7 @@ textarea {
   white-space: pre-wrap;
   height: 20px;
   border-top: 1px solid white;
+  margin-top: 18px; /* Added margin to prevent crowding when hover effects happen*/
 }
 
 .form-control:hover {
