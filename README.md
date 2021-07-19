@@ -35,10 +35,10 @@ Modify client code for Calendar App, that allows for user to save events by hour
 
 6. Updated save-button icons and added favicon
 
-## Final Product
+# Final Product
 
-#### Final Product Image
+### Final Product Image
 ![Final Product Image](Assets/CalendarScreenShot.jpg) 
 ---
-#### Events Saved in Local Storage Example
+### Events Saved in Local Storage Example
 ![Events in Local Storage](Assets/MemortScreenShot.jpg) 
